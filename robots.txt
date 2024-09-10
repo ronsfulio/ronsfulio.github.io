@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronsfulio.github.io/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/app/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/assets/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/css/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/includes/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/item/sitemap.html.gz
+Sitemap: https://ronsfulio.github.io/src/sitemap.html.gz
